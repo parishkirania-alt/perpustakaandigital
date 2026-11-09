@@ -8,18 +8,18 @@ Selamat datang di halaman perpustakaan digital pribadi saya. Berikut adalah daft
 ## Daftar Koleksi E-Book (Tugas 1)
 
 1. [Aku Bisa Memanjat](ebook/Aku Bisa Memanjat.pdf) - Mini Shrinivasan dan Deval Maniar (2024)
-2. [Bulan dan Topi](ebook/Bulan%20dan%20Topi.pdf)
-3. [Jempol Anaya](ebook/Jempol%20Anaya.pdf)
-4. [Ke Mana Monster Sungai Mengembara](ebook/Ke%20Mana%20Monster%20Sungai%20Mengembara.pdf)
-5. [Membantu Sesama](ebook/Membantu%20Sesama.pdf)
-6. [Menghitung](ebook/Menghitung.pdf)
-7. [Rambutku](ebook/Rambutku.pdf)
-8. [Nyanyian Hujan](ebook/Nyanyian%20Hujan.pdf)
-9. [Tarik Talinya!](ebook/Tarik%20Talinya!.pdf)
-10. [Transportasi](ebook/Transportasi.pdf)
+2. [Bulan dan Topi](ebook/Bulan dan Topi.pdf) - Rohini Nilekani dan Angie & Upesh (2024)
+3. [Jempol Anaya](ebook/Jempol Anaya.pdf) - Natasha Sharma dan Ruchi Shah (2024)
+4. [Ke Mana Monster Sungai Mengembara](ebook/Ke Mana Monster Sungai Mengembara.pdf) - Khoem La (2024)
+5. [Membantu Sesama](ebook/Membantu Sesama.pdf) - Tandi Jackson dan Michael Mape (2024)
+6. [Menghitung](ebook/Menghitung.pdf) -  Zanele Buthelezi dan Gay Galsworthy (2024)
+7. [Rambutku](ebook/Rambutku.pdf) - Bel Richardson dan Jess Jardim-Wadepohl (2024)
+8. [Nyanyian Hujan](ebook/Nyanyian Hujan.pdf) - Manisha Chaudhry dan Rajiv Eipe (2024)
+9. [Tarik Talinya!](ebook/Tarik Talinya!.pdf) - Humayra Kabir (2024)
+10. [Transportasi](ebook/Transportasi.pdf) - Bookbot dan Bookbot (2024)
 
 ---
 
 ## Ringkasan UGC (Tugas 2)
 
-11. [UGC-Transforming Libraries through Information Technology Emerging Technologies, User Experience and the Future of Smart Libraries](ebook/UGC-Transforming%20Libraries%20through%20Information%20Technology%20Emerging%20Technologies,%20User%20Experience%20and%20the%20Future%20of%20Smart%20Libraries.pdf)
+11. [UGC-Transforming Libraries through Information Technology Emerging Technologies, User Experience and the Future of Smart Libraries](ebook/UGC-Transforming Libraries through Information Technology Emerging Technologies, User Experience and the Future of Smart Libraries.pdf)
