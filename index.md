@@ -7,16 +7,7 @@ Selamat datang di halaman perpustakaan digital pribadi saya. Berikut adalah daft
 
 ## Daftar Koleksi E-Book (Tugas 1)
 
-1. [Aneh](ebook/Aneh.pdf)
-2. [Aum, Aum, Dinosaurus!](ebook/Aum,%20Aum,%20Dinosaurus!.pdf)
-3. [Jempol Anaya](ebook/Jempol%20Anaya.pdf)
-4. [Ke Mana Monster Sungai Mengembara](ebook/Ke%20Mana%20Monster%20Sungai%20Mengembara.pdf)
-5. [Lori Dori](ebook/Lori%20Dori.pdf)
-6. [Menghitung](ebook/Menghitung.pdf)
-7. [Monster Kakak](ebook/Monster%20Kakak.pdf)
-8. [Nyanyian Hujan](ebook/Nyanyian%20Hujan.pdf)
-9. [Tarik Talinya!](ebook/Tarik%20Talinya!.pdf)
-10. [Transportasi](ebook/Transportasi.pdf)
+1. [Pentingnya arsip sebagai sumber informasi](ebook/Pentingnya Arsip sebagai Sumber Informasi.pdf) - Faturrahman M (2018)
 
 ---
 
