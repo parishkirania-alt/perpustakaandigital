@@ -7,7 +7,7 @@ Selamat datang di halaman perpustakaan digital pribadi saya. Berikut adalah daft
 
 ## Daftar Koleksi E-Book (Tugas 1)
 
-1. [Aku Bisa Memanjat](ebook/Aku%20Bisa%20Memanjat.pdf)
+1. [Aku Bisa Memanjat](ebook/Aku Bisa Memanjat.pdf) - Mini Shrinivasan dan Deval Maniar (2024)
 2. [Bulan dan Topi](ebook/Bulan%20dan%20Topi.pdf)
 3. [Jempol Anaya](ebook/Jempol%20Anaya.pdf)
 4. [Ke Mana Monster Sungai Mengembara](ebook/Ke%20Mana%20Monster%20Sungai%20Mengembara.pdf)
