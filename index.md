@@ -8,7 +8,7 @@ Selamat datang di halaman perpustakaan digital pribadi saya. Berikut adalah daft
 ## Daftar Koleksi E-Book (Tugas 1)
 
 1. [Aneh](ebook/Aneh.pdf)
-2. [Aum, Aum, Dinosaurus!](ebook/2.%20Aum,%20Aum,%20Dinosaurus!.pdf)
+2. [Aum, Aum, Dinosaurus!](ebook/Aum,%20Aum,%20Dinosaurus!.pdf)
 3. [Jempol Anaya](ebook/Jempol%20Anaya.pdf)
 4. [Ke Mana Monster Sungai Mengembara](ebook/Ke%20Mana%20Monster%20Sungai%20Mengembara.pdf)
 5. [Lori Dori](ebook/Lori%20Dori.pdf)
